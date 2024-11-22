@@ -6,7 +6,7 @@
 **ID:** CT08DS9722
 **Domain:** WEB DEVELOPEMENT
 **Duration:** 4 weeks Oct to Nov 2024
-**Mentor:** SANTOSH
+**Mentor:** SANTHOSH
 
 
 ## Overview of the project
