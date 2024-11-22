@@ -1,3 +1,5 @@
+
+![Weather 2024-11-22 213024](https://github.com/user-attachments/assets/91376d5e-0309-4122-bfbd-87798c4b3f56)
 # CODTECH-Task2
 # WEATHER FORECAST APP
 
