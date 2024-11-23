@@ -6,7 +6,7 @@
 **Name:** Raj Priyam
 **Company:**  CODETECH IT SOLUTION
 **ID:** CT08DS9722
-**Domain:** WEB DEVELOPEMENT
+**Domain:** WEB DEVELOPMENT
 **Duration:** 4 weeks Oct to Nov 2024
 **Mentor:** SANTHOSH
 
